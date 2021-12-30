@@ -10,7 +10,7 @@ This report analyses a [dataset](https://www.kaggle.com/joniarroba/noshowappoint
 The report distinguishes between two groups of factors that might have significance: those related to the system, and personal attributes of the patients themselves.
 
 ## Dataset
-the oringinal dataset can be found [here](https://www.kaggle.com/joniarroba/noshowappointments). The dataset contains 110.527 medical appointments with 14 associated variables (characteristics):
+The oringinal dataset can be found [here](https://www.kaggle.com/joniarroba/noshowappointments). The dataset contains 110.527 medical appointments with 14 associated variables (characteristics):
 1. **PatientId:** Identification of a patient
 2. **AppointmentID:** Identification of each appointment
 3. **Gender:** Male or Female . Female is the greater proportion, woman takes way more care of they health in comparison to man.
